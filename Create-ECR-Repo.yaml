@@ -7,7 +7,7 @@ Parameters:    # =============[ PARAMETERS ]==========================
   pRepositoryName:
     Description: Elastic Container Repository Name
     Type: String
-	Default: 'MyNissan'
+    Default: 'MyNissan'
   
   pScanOnPush:
     Description: Scan the Image On Push
